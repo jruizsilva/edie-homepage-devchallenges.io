@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/7212357-21adc89b9f07cd250ffe16e4b9760f3c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210410%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210410T082459Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef7febab6348a658d5a79ed748e876cc8cb187ab6784cc1ea1ea253b436f2784)
+![screenshot](https://i.ibb.co/QrhTmCR/Edie-homepage-my-Solution.png)
 
 ## Responsive Web Developer
 
